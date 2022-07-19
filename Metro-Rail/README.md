@@ -1,4 +1,4 @@
-                          ####### DELHI METRO RAIL APP  #######
+  DELHI METRO RAIL APP  
 
 
 
